@@ -1,5 +1,7 @@
 # Solana Wallet Drainer
 
+aint no way this is my oly repo with stars u skids needa hop off </3
+
 ⚠️ **LEGAL DISCLAIMER: This tool is for LEGITIMATE purposes only. Do NOT use for malicious activities, theft, or unauthorized access to wallets. Only use with wallets you own or have explicit permission to access.**
 
 A TypeScript program that transfers all SOL and SPL tokens worth more than $5 from one wallet to another in a single transaction. Designed for legitimate wallet consolidation, migration, or emergency fund transfers.
@@ -182,5 +184,6 @@ MIT License - see LICENSE file for details.
 This software is provided "as is" without warranty. Use at your own risk. 
 
 **LEGAL NOTICE**: This tool is for legitimate purposes only. Users are responsible for ensuring they have proper authorization to access any wallets they use with this tool. The developers are not responsible for any misuse of this software.
+
 
 **Always test with small amounts before using with significant funds.** 
